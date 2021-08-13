@@ -20,5 +20,3 @@ I worked at [Bindez](https://bindez.com/) as part time NLP research assistant wh
 
 My research interests are natural language processing (NLP), machine learning, deep learning and data science. You can explore more about my resume [here](https://hninayelwin.github.io/files/resume.pdf).
  
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
