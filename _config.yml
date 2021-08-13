@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hnin Aye Lwin"
 title_separator          : "-"
 name                     : &name "Hnin Aye Lwin"
-description              : &description "Master of Computer Science in Knowledge Engineering, University of Information Technology"
+description              : &description "NLP Research and Data Operation Engineer"
 url                      : https://hninayelwin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "HninAyeLwin/academicpages.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hnin Aye Lwin"
   avatar           : "profile.png"
-  bio              : "Master of Computer Science in Knowledge Engineering, University of Information Technology"
+  bio              : "NLP Research and Data Operation Engineer"
   location         : "Yangon, Myanmar"
   employer         :
   pubmed           : 
