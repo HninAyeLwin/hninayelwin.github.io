@@ -6,7 +6,7 @@ excerpt: 'This paper is about machine translation from Myanmar (Burmese) to Engl
 date: 2019-10-01
 venue: ''
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Hnin Aye Lwin. (2019). &quot;Neural Machine Translation on Myanmar Language.&quot; <i>Adavances in Intelligent Systems and Computing</i>. 1(1).'
 ---
 This paper is about machine translation from Myanmar (Burmese) to English based on Neural Network.
 
