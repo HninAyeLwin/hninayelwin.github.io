@@ -11,49 +11,70 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Computer Science in Knowledge Engineering
+  * [University of Information Technology, Yangon](https://www.uit.edu.mm/)
+  * December 2012 - July 2017
+* Master of Computer Science in Knowledge Engineering
+  * [University of Information Technology, Yangon](https://www.uit.edu.mm/)
+  * December 2017 - Oct 2019
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Feb-Mar 2016: SAKURA Science Program  
+  * [Japan Advanced Institute of Science and Technology (JAIST)](https://www.jaist.ac.jp/english/)
+  * Duties included: NLP tokenization tools
+  * Supervisor: [Professor SHIRAI Kiyoaki](https://www.jaist.ac.jp/english/areas/et/laboratory/shirai.html)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sep-Oct 2016: Field Study
+  * [Myanmar Computer Federation](https://www.mcf.org.mm/)
+  * Duties included: Myanmar NLP tools
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* May-Aug 2017: Internship
+  * [Acroquest Myanmar Technology Co., Ltd.](https://www.acromyanmar.com/)
+  * Duties included: Sound classification with machine learning and Anomaly Detection
+  * Supervisor: Khine Wai Oo and Koji Ishida
   
-Talks
+* Aug 2018-Jul 2019: NLP Research Assistant
+  * [Bindez Pte. Ltd](https://bindez.com/)
+  * Duties included: Sentiment Analysis and Topic Tagging
+
+* Present: NLP Research and Data Operation Engineer
+  * [Bindez Pte. Ltd](https://bindez.com/)
+  * Duties included: Sentiment Analysis, Topic Tagging, Text classification and Part of Speech Tagging
+
+Honors & Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* Best Paper Award
+  * Paper entitled: Neural Machine Translation on Myanmar Language
+  * Conference: 2nd International Conference on Intelligent Computing and Optimization
+  * Publication: Springer - Advances in Intelligent Systems and Computing
+
+Licenses & Certifications
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Information Technology Passport Examination ([IT passport](https://itpec.org/about/itpec-common-exam.html), 2015)
+* Big Data Course ([Acroquest Myanmar Technology Co., Ltd.](https://www.acromyanmar.com/), 2016)
+* Fundamental Information Technology Engineer Examination ([FE](https://itpec.org/about/itpec-common-exam.html), 2016)
+* Certificate for SAKURA Science Program ([JAIST]((https://www.jaist.ac.jp/english/)), 2016)
+* Certificate of Contribution to 2nd ICICO 2019, Koh Samui, Thailand (2019)
+
+Projects
 ======
-* Currently signed in to 43 different slack teams
+* E-tendering System (UIT's Open House, 2015)
+* Medical Expert System (UIT's Open House, 2016)
+* Emoji Typewriter for Kids (UIT, 2016)
+* Asia Yangon National Programming Contest (ICPC, 2016)
+* Nearest Restaurant finder Business Plan (UniHack Challenge, 2016)
+* Big Data Analysis Course (Acroquest, 2016)
+* Myanmar Zawgyi-Unicode Converter (Internship/MCF, 2016)
+* Myanmar Word Segmentation (Final Term Paper, 2017)
+* Urban Sound Classification (Acroquest, 2017)
+* Anomaly Detection for machines (Acroquest, 2017)
+* Neural Machine Translation on Myanmar Language (Master Thesis, 2018-2019)
+
+Courses
+======
+* 
+
+Labs
+======
+* AI Lab
